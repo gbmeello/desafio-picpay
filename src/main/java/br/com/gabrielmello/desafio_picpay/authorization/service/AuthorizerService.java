@@ -1,6 +1,6 @@
 package br.com.gabrielmello.desafio_picpay.authorization.service;
 
-import br.com.gabrielmello.desafio_picpay.authorization.exception.UnauthorizedTransactionException;
+import br.com.gabrielmello.desafio_picpay.transaction.exception.UnauthorizedTransactionException;
 import br.com.gabrielmello.desafio_picpay.transaction.domain.Transaction;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

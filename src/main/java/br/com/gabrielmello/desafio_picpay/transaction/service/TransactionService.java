@@ -9,6 +9,9 @@ import br.com.gabrielmello.desafio_picpay.transaction.exception.InvalidTransacti
 import br.com.gabrielmello.desafio_picpay.transaction.repository.TransactionRepository;
 import br.com.gabrielmello.desafio_picpay.wallet.domain.WalletType;
 import br.com.gabrielmello.desafio_picpay.wallet.repository.WalletRepository;
+
+
+
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Service;
